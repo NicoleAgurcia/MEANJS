@@ -1,5 +1,3 @@
-
-
 .omb_login{
 	padding-left:10px;
 	padding-top: 90px;
@@ -65,7 +63,7 @@
 	border-color: #ccc;
 }
 .btn-login {
-	background-color: #1CB94E;
+	background-color: #264348;
 	outline: none;
 	color: #fff;
 	font-size: 14px;
@@ -73,15 +71,15 @@
 	font-weight: normal;
 	padding: 14px 0;
 	text-transform: uppercase;
-	border-color: #1CB94E;
+	border-color: #264348;
 }
 .btn-login:hover,
 
-/*.btn-login:focus {
+.btn-login:focus {
 	color: #fff;
-	background-color: #53A3CD;
-	border-color: #53A3CD;
-}*/
+	background-color: #044F67;
+	border-color: #044F67;
+}
 .forgot-password {
 	text-decoration: underline;
 	color: #888;
@@ -93,7 +91,7 @@
 }
 
 .btn-register {
-	background-color: #1CB94E;
+	background-color: #264348;
 	outline: none;
 	color: #fff;
 	font-size: 14px;
@@ -101,19 +99,19 @@
 	font-weight: normal;
 	padding: 14px 0;
 	text-transform: uppercase;
-	border-color: #1CB94A;
+	border-color: #264348;
 }
 
 button{
-	border-color: #1CB94A;
-	color: #1CB94E;
+	border-color: #264348;
+	color: #264348;
 }
 
 .btn-register:hover,
 .btn-register:focus {
 	color: #fff;
-	background-color: #1CA347;
-	border-color: #1CA347;
+	background-color: #044F67;
+	border-color: #044F67;
 }
 
 

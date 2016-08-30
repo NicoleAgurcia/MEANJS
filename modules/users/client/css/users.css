@@ -1,5 +1,23 @@
+h1 { 
+color: #264348; 
+font-family: 'Trocchi', 
+serif; font-size: 45px; 
+font-weight: normal; 
+line-height: 48px; 
+margin: 0; 
+}
+
+a {  
+  font-family: 'Lato';
+}
+
+.nav-settingNav {
+    position: fixed;
+
+  }
+
 @media (min-width: 992px) {
-  .nav-users {
+.nav-users {
     position: fixed;
   }
 }
@@ -15,6 +33,7 @@
 .btn-file {
   position: relative;
   overflow: hidden;
+
 }
 .btn-file input[type=file] {
   position: absolute;
@@ -29,8 +48,10 @@
   background: white;
   cursor: inherit;
   display: block;
+
 }
 .user-profile-picture {
-  min-height: 150px;
-  max-height: 150px;
+  min-height: 200px;
+  max-height: 200px;
+  background-color: #264348; 
 }
